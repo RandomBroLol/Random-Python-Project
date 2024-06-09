@@ -1,4 +1,11 @@
-# Random-Python-Project
-Download The random project folder
-open the PY folder and done!
-to check for updates go to settings
+# 🆕 Random-Python-Project
+
+🆓Go to releases download the exe and do the setup
+
+Features:
+♟Browser Installer
+🎬Programs Installer
+🔬Send Messages To your discord webhook
+🛃Useful Websites
+
+📴Is in Alpha So expect bugs
