@@ -9,3 +9,5 @@ Features:
 🛃Useful Websites
 
 📴Is in Alpha So expect bugs
+
+🛜Website Link! https://randombrosdatamines.pages.dev/downloads
